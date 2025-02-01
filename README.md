@@ -6,7 +6,7 @@
 🛜 I’m currently working on my personal [portfolio](https://alanmjoshy.github.io/portfolio/), Python development projects, and enhancing my frontend development skills.<br> I’m looking to collaborate on open-source projects, full-stack web applications, and UI/UX design.<br> I’m looking for help with advanced Django features, learning cloud deployment, and mastering complex UI/UX design principles.<br> I’m currently learning Python for backend development (Django), and improving my frontend skills with JavaScript, React, and UI/UX design.<br> Ask me about frontend development, UI/UX design, and creating responsive and user-friendly web applications.<br> Fun fact: I enjoy blending code with design to create visually appealing and highly functional user experiences.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AlanmJoshy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/a.1_a.n/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-m-joshy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alanmjoshy22012001@gmail.com) 
 
 # 💻 Tech Stack:
